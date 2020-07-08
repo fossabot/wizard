@@ -1,6 +1,7 @@
 Wizard
 ====
 [![Build Status](https://travis-ci.org/evalphobia/wizard.svg?branch=master)](https://travis-ci.org/evalphobia/wizard) [![codecov.io](https://codecov.io/github/evalphobia/wizard/coverage.svg?branch=master)](https://codecov.io/github/evalphobia/wizard?branch=master)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fevalphobia%2Fwizard.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fevalphobia%2Fwizard?ref=badge_shield)
  [![GoDoc](https://godoc.org/github.com/evalphobia/wizard?status.svg)](https://godoc.org/github.com/evalphobia/wizard) [![Join the chat at https://gitter.im/evalphobia/wizard](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/evalphobia/wizard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Wizard is database/sql management library for multi instance and sharding in golang.
@@ -148,3 +149,7 @@ func main() {
 ### Other info
 
 - Slide ["golang.tokyo #7 Wizard"](https://www.slideshare.net/TakumaMorikawa/golangtokyo-7-wizard-database-sharding-library-for-golang)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fevalphobia%2Fwizard.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fevalphobia%2Fwizard?ref=badge_large)
